@@ -9,4 +9,6 @@
  - Nunjucks
  - Javascript
  
- ![PetFinder](https://i.imgur.com/p9rLiDk.png)
+![PetFinder](https://i.imgur.com/p9rLiDk.png)
+![PetFinder](https://i.imgur.com/SlVyNQH.png)
+![PetFinder](https://i.imgur.com/2lG4gBp.png)
