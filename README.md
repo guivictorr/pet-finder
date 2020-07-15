@@ -9,7 +9,7 @@ A aplicação original da NLW era o [Ecoleta](https://github.com/Rocketseat/nlw-
 
 Para visualizar o resultado final da minha versão da aplicação [Clique aqui](https://petfinder-testapp.herokuapp.com)
 
-## 🚀 Tecnologias
+## 🛠 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -34,4 +34,4 @@ Depois que o merge da sua pull request for feito, você pode deletar a sua branc
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/guivictorr/pet-finder/blob/master/LICENSE) para mais detalhes.
