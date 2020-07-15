@@ -1,10 +1,8 @@
 <h1 align="center">
   <strong> Next Level Week (NLW) 🚀</strong>
 </h1>
-
-## 💜 O que é a Next Level Week
-O NLW é um evento com muito código, desafios, networking e um único objetivo: te levar para o próximo nível. 
-Um experiência online e totalmente gratuita para evoluir suas habilidades em programação e colocar mais um trabalho completo no seu portfolio.
+<p align="center">💜 O NLW é um evento com muito código, desafios, networking e um único objetivo: te levar para o próximo nível. O que é a Next Level Week
+Um experiência online e totalmente gratuita para evoluir suas habilidades em programação e colocar mais um trabalho completo no seu portfolio.</p>
 
 ## 🔎 Veja como ficou
 A aplicação original da NLW era o [Ecoleta](https://github.com/Rocketseat/nlw-01-starter)
